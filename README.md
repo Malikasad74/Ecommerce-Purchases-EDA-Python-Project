@@ -190,17 +190,6 @@ Helps business teams:
 ✔ Filter high-value purchases by payment provider  
 
 ---
-📁 Ecommerce-Purchases-EDA
-├ 📄 Ecommerce Purchases Dataset.csv
-├ 📓 EDA Notebook.ipynb
-├ 🖼 head.png
-├ 🖼 price destribution.png
-├ 🖼 ampm.png
-├ 🖼 store.png
-└ 📄 README.md
-
-
----
 
 ## 🔮 Future Enhancements
 
