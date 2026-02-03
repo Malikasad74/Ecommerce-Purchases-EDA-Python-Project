@@ -134,6 +134,112 @@ Top Email Domains:
 
 ---
 
+## 🎥 Project Visual Walkthrough
+
+### 📊 Dataset Head Preview
+![Dataset Head](head.png)
+
+---
+
+### 💰 Purchase Price Distribution
+![Purchase Distribution](price distribution.png)
+
+---
+
+### ⏰ AM vs PM Purchase Comparison
+![AM PM Chart](ampm.png)
+
+---
+
+## 🖼 What These Visuals Show
+
+📌 **Dataset Head Output**  
+Shows raw dataset structure, column types, and sample data rows.
+
+📌 **Purchase Price Distribution**  
+Helps understand:
+- Customer spending behavior  
+- Price concentration range  
+- Outlier purchases  
+
+📌 **AM vs PM Chart**  
+Helps business teams:
+- Schedule marketing campaigns  
+- Optimize push notification timing  
+- Plan flash sales timing  
+
+📌 **Store Banner / Branding**  
+Adds portfolio-level project presentation quality.
+
+---
+
+## 📊 How This Helps Business Teams
+
+### 💰 Revenue Team
+- Identify average customer spend  
+- Detect high-value customer segments  
+
+### 📢 Marketing Team
+- Target email campaigns based on domain usage  
+- Optimize campaign timing using AM/PM trend  
+
+### 🔐 Risk Team
+- Monitor credit card usage patterns  
+- Detect suspicious transaction signals  
+
+---
+
+## ⚡ Advanced Pandas Skills Demonstrated
+
+- Boolean Filtering  
+- String Feature Extraction  
+- Lambda Functions  
+- Value Counts Analysis  
+- Multi-condition Filtering  
+
+---
+
+## 🧠 Real-World Data Analyst Skills Demonstrated
+
+✔ Data Exploration  
+✔ Business Insight Extraction  
+✔ Customer Behavior Analysis  
+✔ Transaction Pattern Analysis  
+✔ Feature Level Investigation  
+
+---
+
+## 🔮 Future Enhancements
+
+🚀 Power BI Dashboard Version  
+🚀 Streamlit Web App Version  
+🚀 Customer Segmentation ML Model  
+🚀 Purchase Price Prediction Model  
+🚀 Time Based Purchase Trend Forecasting  
+
+---
+
+## 👨‍💻 Author
+
+**Asad Malik**  
+📊 Data Analyst | Python | SQL | Power BI | Excel  
+🎓 Bachelor’s in Computer Application  
+📍 India  
+
+🔗 GitHub: https://github.com/Malikasad74  
+
+---
+
+## ⭐ Support
+
+If you like this project:
+
+⭐ Star the repo  
+🍴 Fork the repo  
+📢 Share with others  
+
+---
+
 ## 🚀 How to Run
 
 ```bash
