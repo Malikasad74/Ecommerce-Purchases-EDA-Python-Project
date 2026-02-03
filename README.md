@@ -126,3 +126,23 @@ Top Email Domains:
 
 ## 📂 Project Structure
 
+📁 Ecommerce-Purchases-EDA
+├ 📄 Ecommerce Purchases Dataset.csv
+├ 📓 EDA Notebook.ipynb
+└ 📄 README.md
+
+
+
+---
+
+## 🚀 How to Run
+
+```bash
+# Clone repository
+git clone https://github.com/Malikasad74/ecommerce-eda.git
+
+# Install dependencies
+pip install pandas
+
+# Run notebook
+jupyter notebook
