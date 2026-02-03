@@ -8,7 +8,6 @@
 ---
 
 ## 📌 Project Overview
-
 This project performs **Exploratory Data Analysis (EDA)** on an e-commerce purchases dataset to uncover:
 
 - Customer purchase behavior
