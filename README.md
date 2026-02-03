@@ -1,5 +1,7 @@
 # 🛒 Ecommerce Purchases – Exploratory Data Analysis (EDA)
 
+![Project Banner](store.png)
+
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
 ![EDA](https://img.shields.io/badge/Project-EDA-success)
@@ -59,9 +61,9 @@ The goal is to simulate a **real-world business analytics scenario** using Pytho
 
 ## 🧰 Tech Stack
 
-- 🐍 Python
-- 🐼 Pandas
-- 📓 Jupyter Notebook
+- 🐍 Python  
+- 🐼 Pandas  
+- 📓 Jupyter Notebook  
 
 ---
 
@@ -86,6 +88,7 @@ The goal is to simulate a **real-world business analytics scenario** using Pytho
 ---
 
 ### ⏰ Time-Based Purchase Behavior
+
 | Time | Purchases |
 |---|---|
 | AM | 4932 |
@@ -96,41 +99,14 @@ The goal is to simulate a **real-world business analytics scenario** using Pytho
 ---
 
 ### 📧 Email Provider Popularity
+
 Top Email Domains:
 
-1. hotmail.com
-2. yahoo.com
-3. gmail.com
-4. smith.com
-5. williams.com
-
----
-
-## 🧠 Interesting Insights
-
-📌 Purchases are almost evenly split between AM and PM  
-📌 Email usage shows strong dominance of legacy providers (Hotmail, Yahoo)  
-📌 Average purchase value is around mid-range → Indicates balanced pricing strategy  
-
----
-
-## 🧪 Sample Analysis Tasks
-
-✔ Find customers using specific IP address  
-✔ Detect job titles containing "Engineer"  
-✔ Extract email domains using string operations  
-✔ Filter high-value purchases by payment provider  
-
----
-
-## 📂 Project Structure
-
-📁 Ecommerce-Purchases-EDA
-├ 📄 Ecommerce Purchases Dataset.csv
-├ 📓 EDA Notebook.ipynb
-└ 📄 README.md
-
-
+1. hotmail.com  
+2. yahoo.com  
+3. gmail.com  
+4. smith.com  
+5. williams.com  
 
 ---
 
@@ -142,7 +118,7 @@ Top Email Domains:
 ---
 
 ### 💰 Purchase Price Distribution
-![Purchase Distribution](price distribution.png)
+![Purchase Distribution](pricedest.png)
 
 ---
 
@@ -167,9 +143,6 @@ Helps business teams:
 - Schedule marketing campaigns  
 - Optimize push notification timing  
 - Plan flash sales timing  
-
-📌 **Store Banner / Branding**  
-Adds portfolio-level project presentation quality.
 
 ---
 
@@ -209,6 +182,26 @@ Adds portfolio-level project presentation quality.
 
 ---
 
+## 🧪 Sample Analysis Tasks
+
+✔ Find customers using specific IP address  
+✔ Detect job titles containing "Engineer"  
+✔ Extract email domains using string operations  
+✔ Filter high-value purchases by payment provider  
+
+---
+📁 Ecommerce-Purchases-EDA
+├ 📄 Ecommerce Purchases Dataset.csv
+├ 📓 EDA Notebook.ipynb
+├ 🖼 head.png
+├ 🖼 price destribution.png
+├ 🖼 ampm.png
+├ 🖼 store.png
+└ 📄 README.md
+
+
+---
+
 ## 🔮 Future Enhancements
 
 🚀 Power BI Dashboard Version  
@@ -223,6 +216,7 @@ Adds portfolio-level project presentation quality.
 
 **Asad Malik**  
 📊 Data Analyst | Python | SQL | Power BI | Excel  
+
 🎓 Bachelor’s in Computer Application  
 📍 India  
 
@@ -251,3 +245,6 @@ pip install pandas
 
 # Run notebook
 jupyter notebook
+
+## 📂 Project Structure
+
